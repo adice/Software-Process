@@ -1,0 +1,2 @@
+- [软件过程（周二教学班）](https://github.com/adice/Software-Process/tree/master/%E5%91%A8%E4%BA%8C%E6%95%99%E5%AD%A6%E7%8F%AD)
+- [软件过程（周五教学班）](https://github.com/adice/Software-Process/tree/master/%E5%91%A8%E4%BA%94%E6%95%99%E5%AD%A6%E7%8F%AD)
