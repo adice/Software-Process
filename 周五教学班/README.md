@@ -88,7 +88,7 @@
     <tr>
       <td></td>
       <td>张旭磊（队长），潘伟佳，薛世强，张建清</td>
-      <td></td>
+      <td>https://github.com/zhangxulei1/group_vv.git</td>
     </tr>
     <tr>
       <td>Star</td>
