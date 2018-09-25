@@ -1,0 +1,147 @@
+# WWW.MYZ
+软件过程是新的接触，新的开始
+
+## 软件工程2班小队分配情况和列表
+
+<div>
+  <table border="0" style="text-align:center">
+    <tr>
+      <th>队名 </th>
+      <th>队内成员</th>
+      <th>仓库链接</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td>赵凯伟（队长），张冲</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>幺古组</td>
+      <td>王晓意（队长），王琚</td>
+      <td>https://github.com/greatoldons/software-process-homework.git</td>
+    </tr>
+    <tr>
+      <td>随便</td>
+      <td>韩锋（队长），高志阳，熊振宇</td>
+      <td>https://github.com/hanfeng1997/xiaozu.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>金鼎龙（队长），王志岗，敬欢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>孟响（队长），刘士坤，吝盼利</td>
+      <td>https://github.com/mengxiangdream/dreamstar.git</td>
+    </tr>
+    <tr>
+      <td>ZZW</td>
+      <td>张帅（队长），赵晨鹤，王秋月</td>
+      <td>https://github.com/Class2-ZhangShuai/Software-Engineering.git</td>
+    </tr>
+    <tr>
+      <td>聚贤类</td>
+      <td>句艳平（队长），李晔，徐福惠</td>
+      <td>https://github.com/juyanping/Software.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>康丽娜（队长），侯梦媛，鞠栋杰</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>陈若云（队长），柳海源，李密浩</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>王浩权（与外班顾凯峰，孙晴晴结队）</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>张迎灿（队长），曹颖，毛琛，杨丽颖</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>A group of four</td>
+      <td>苏鑫（队长），邢佳玉，张萌，孙东东</td>
+      <td>https://github.com/98xin/A-group-of-four.git </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>林伟（队长），郝凯歌，程伟业，梅连伟</td>
+      <td>https://github.com/linwei27/softwareprocess.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>李泽璐（队长），封寅凯，马月红，刁立翔</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>霍尔沃兹学院的神奇四侠</td>
+      <td>任涵彬（队长），卢丹琦，袁培凯，申尚东</td>
+      <td>https://github.com/RenHanbin/Hogwarts.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>张旭磊（队长），潘伟佳，薛世强，张建清</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Star</td>
+      <td>李子腾（队长），邢文然，李胜星，刘文静</td>
+      <td>https://github.com/lover4/Star.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>李佳伟（队长），孙鑫鑫，武升辉，李晔欣</td>
+      <td>https://github.com/hunteen/software-engineering.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>徐利媛,杜羿萱，刘西寅，刘佳昌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>三只皮皮</td>
+      <td>杨永好（队长），（与外班大数据的袁云鹏和黄文旭组队）</td>
+      <td>https://github.com/LangoSy/three_pipi.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>程文秀（队长），刘曼，李美情，李洁，王昊，刘兆康</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>WWW.MYZ</td>
+      <td>姚朵（队长），王晓双，赵娜，王凯，王澎源，毛琳欣</td>
+      <td>https://github.com/yaoduo1997/WWW.MYZ.git</td>
+    </tr>
+    <tr>
+      <td>Workhard</td>
+      <td>李海亮（队长），刘文轩，陆贺松，夏桐，赵宸，路昊鹏</td>
+      <td>https://github.com/lihailiang1997/Workhard.git</td>
+    </tr>
+    <tr>
+      <td>：：：：flaming  soul</td>
+      <td>李栋良（队长），刘阳，王庭恩，霍宁肖，王紫薇，刘子璇</td>
+      <td>https://github.com/lidongliang666/software.git</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>未晓倩（队长），刘倩倩，吴智栋，胡海锋，李晓丹，梁梦爽</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>-Team-1-more</td>
+      <td>王宇开（外班队长）,张鑫媛，金奕含，范浩宇（外班队员：孙采萱、谢江帆）</td>
+      <td>https://github.com/MarshallOpen/-Team-1-more.git</td>
+    </tr>
+  </table>
+</div>
+
+
+注释：顾凯峰，孙晴晴（是祁乐老师班的），其他外来班的队员都是王伟老师教的
