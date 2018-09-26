@@ -11,9 +11,9 @@
       <th>仓库链接</th>
     </tr>
     <tr>
-      <td></td>
+      <td>604</td>
       <td>赵凯伟（队长），张冲</td>
-      <td></td>
+      <td>https://github.com/Zhangchong6/software-engineering.git</td>
     </tr>
     <tr>
       <td>幺古组</td>
@@ -26,12 +26,12 @@
       <td>https://github.com/hanfeng1997/xiaozu.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>428</td>
       <td>金鼎龙（队长），王志岗，敬欢</td>
-      <td></td>
+      <td>https://github.com/kimskylines/-Software-Engineering.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>梦想团队</td>
       <td>孟响（队长），刘士坤，吝盼利</td>
       <td>https://github.com/mengxiangdream/dreamstar.git</td>
     </tr>
@@ -46,9 +46,9 @@
       <td>https://github.com/juyanping/Software.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>JHK</td>
       <td>康丽娜（队长），侯梦媛，鞠栋杰</td>
-      <td></td>
+      <td>https://github.com/kanglina/software-engineering.git</td>
     </tr>
     <tr>
       <td>HaHa</td>
@@ -56,14 +56,14 @@
       <td>https://github.com/chenruoyun1016/HaHa.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>程风破浪队</td>
       <td>王浩权（与外班顾凯峰，孙晴晴结队）</td>
-      <td></td>
+      <td>https://github.com/liuxueqing1023/soft.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>SpongeBob-and-Patrick</td>
       <td>张迎灿（队长），曹颖，毛琛，杨丽颖</td>
-      <td></td>
+      <td>https://github.com/class1-zhangyingcan/SpongeBob-and-Patrick.git</td>
     </tr>
     <tr>
       <td>A group of four</td>
@@ -71,23 +71,23 @@
       <td>https://github.com/98xin/A-group-of-four.git </td>
     </tr>
     <tr>
-      <td></td>
+      <td>阿鲁</td>
       <td>林伟（队长），郝凯歌，程伟业，梅连伟</td>
       <td>https://github.com/linwei27/softwareprocess.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>software engineering</td>
       <td>李泽璐（队长），封寅凯，马月红，刁立翔</td>
-      <td></td>
+      <td>https://github.com/844511406/lizelu-software-engineering.git</td>
     </tr>
     <tr>
       <td>霍尔沃兹学院的神奇四侠</td>
-      <td>任涵彬（队长），卢丹琦，袁培凯，申尚东</td>
+      <td>任涵彬（队长），袁培凯，申尚东</td>
       <td>https://github.com/RenHanbin/Hogwarts.git</td>
     </tr>
     <tr>
-      <td></td>
-      <td>张旭磊（队长），潘伟佳，薛世强，张建清</td>
+      <td>dreamT</td>
+      <td>张旭磊（队长），潘伟佳，薛世强，张建青</td>
       <td>https://github.com/zhangxulei1/group_vv.git</td>
     </tr>
     <tr>
@@ -96,24 +96,24 @@
       <td>https://github.com/lover4/Star.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>软件工程</td>
       <td>李佳伟（队长），孙鑫鑫，武升辉，李晔欣</td>
       <td>https://github.com/hunteen/software-engineering.git</td>
     </tr>
     <tr>
-      <td></td>
-      <td>徐利媛,杜羿萱，刘西寅，刘佳昌</td>
+      <td>我们说的都对</td>
+      <td>徐利媛（队长），杜羿萱，刘西寅，刘佳昌</td>
       <td></td>
     </tr>
     <tr>
-      <td>三只皮皮</td>
+      <td> Three-pipi</td>
       <td>杨永好（队长），（与外班大数据的袁云鹏和黄文旭组队）</td>
       <td>https://github.com/LangoSy/three_pipi.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>fighters</td>
       <td>程文秀（队长），刘曼，李美情，李洁，王昊，刘兆康</td>
-      <td></td>
+      <td>https://github.com/chengwenxiu1998/softwareEngineering.git</td>
     </tr>
     <tr>
       <td>WWW.MYZ</td>
@@ -126,14 +126,14 @@
       <td>https://github.com/lihailiang1997/Workhard.git</td>
     </tr>
     <tr>
-      <td>：：：：flaming  soul</td>
+      <td>flaming  soul</td>
       <td>李栋良（队长），刘阳，王庭恩，霍宁肖，王紫薇，刘子璇</td>
       <td>https://github.com/lidongliang666/software.git</td>
     </tr>
     <tr>
-      <td></td>
+      <td>SPIDER</td>
       <td>未晓倩（队长），刘倩倩，吴智栋，胡海锋，李晓丹，梁梦爽</td>
-      <td></td>
+      <td>https://github.com/wei-xiao-qian/201606SoftwareProcess.git</td>
     </tr>
     <tr>
       <td>-Team-1-more</td>
