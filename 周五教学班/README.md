@@ -103,7 +103,7 @@
     <tr>
       <td>我们说的都对</td>
       <td>徐利媛（队长），杜羿萱，刘西寅，刘佳昌</td>
-      <td></td>
+      <td>https://github.com/xuliyuan521/all-we-say-is-right.git</td>
     </tr>
     <tr>
       <td> Three-pipi</td>
