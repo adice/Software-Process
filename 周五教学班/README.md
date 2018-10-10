@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>梦想团队</td>
-      <td>孟响（队长），刘士坤，吝盼利</td>
+      <td>孟响（队长），刘士坤，吝盼利，王浩权</td>
       <td>https://github.com/mengxiangdream/dreamstar.git</td>
     </tr>
     <tr>
@@ -54,11 +54,6 @@
       <td>HaHa</td>
       <td>陈若云（队长），柳海源，李密浩</td>
       <td>https://github.com/chenruoyun1016/HaHa.git</td>
-    </tr>
-    <tr>
-      <td>程风破浪队</td>
-      <td>王浩权（与外班顾凯峰，孙晴晴结队）</td>
-      <td>https://github.com/liuxueqing1023/soft.git</td>
     </tr>
     <tr>
       <td>SpongeBob-and-Patrick</td>
