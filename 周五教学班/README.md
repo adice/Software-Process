@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td>software engineering</td>
-      <td>李泽璐（队长），封寅凯，马月红，刁立翔</td>
+      <td>李泽璐（队长），封寅凯，马月红，刁立翔,李英杰</td>
       <td>https://github.com/844511406/lizelu-software-engineering.git</td>
     </tr>
     <tr>
