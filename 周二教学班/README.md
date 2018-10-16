@@ -12,17 +12,17 @@
     </tr>
     <tr>
       <td>甲方说得队</td>
-      <td>倪泽苒（组长）孙亦璇 王慧 靳若琪 赵旭 户子超</td>
+      <td>倪泽苒（队长）孙亦璇 王慧 靳若琪 赵旭 户子超</td>
       <td>https://github.com/nizeran469/software3</td>
     </tr>
     <tr>
       <td>PLAILING</td>
-      <td>郭秋霞(组长)、刘珊珊、张思嘉、梁芳芳、梁雅茹、辛佳锟</td>
+      <td>郭秋霞(队长)、刘珊珊、张思嘉、梁芳芳、梁雅茹、辛佳锟</td>
       <td>https://github.com/guoqiuxia/PLAILING.git</td>
     </tr>
     <tr>
       <td>aerfateam</td>
-      <td>郭程媛（组长） 栾晓玥 方玉珍 张鼎 高天禹</td>
+      <td>郭程媛（队长） 栾晓玥 方玉珍 张鼎 高天禹</td>
       <td>https://github.com/aerfateam/aerfa-homework</td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>丁小白</td>
-      <td>白晨皓(组长)  丁泽仁</td>
+      <td>白晨皓(队长)  丁泽仁</td>
       <td>https://github.com/baichenhao/Software-process</td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td>ICONIX</td>
-      <td>吕凝慧（组长）  成琼  王梦真  徐俊美  赵家瑶</td>
+      <td>吕凝慧（队长）  成琼  王梦真  徐俊美  赵家瑶</td>
       <td>https://github.com/lvninghui/big-data-software-engineering.git</td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td>Soft Group</td>
-      <td>组长：刘金辀 组员：杨子旭、李胜鹏、卓必诚、徐安、徐昌隆</td>
+      <td>刘金辀(队长) 杨子旭 李胜鹏 卓必诚 徐安 徐昌隆</td>
       <td>https://github.com/HBSDLJZ/SoftClass</td>
     </tr>
     <tr>
