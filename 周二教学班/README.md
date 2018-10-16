@@ -51,6 +51,16 @@
       <td>https://github.com/lvninghui/big-data-software-engineering.git</td>
     </tr>
     <tr>
+      <td>超越队</td>
+      <td>董莹(队长)曹泽辰 祁虹蕾 王玉玲</td>
+      <td>https://github.com/engineeringranks/soft</td>
+    </tr>
+    <tr>
+      <td>Soft Group</td>
+      <td>组长：刘金辀 组员：杨子旭、李胜鹏、卓必诚、徐安、徐昌隆</td>
+      <td>https://github.com/HBSDLJZ/SoftClass</td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
       <td></td>
