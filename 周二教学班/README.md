@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td>PLAILING</td>
-      <td>郭秋霞、刘珊珊、张思嘉、梁芳芳、梁雅茹、辛佳锟</td>
+      <td>郭秋霞(组长)、刘珊珊、张思嘉、梁芳芳、梁雅茹、辛佳锟</td>
       <td>https://github.com/guoqiuxia/PLAILING.git</td>
     </tr>
     <tr>
