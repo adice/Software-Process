@@ -46,7 +46,7 @@
       <td>https://github.com/yuxinyang123/Right-Team</td>
     </tr>
     <tr>
-      <td></td>
+      <td>ICONIX</td>
       <td>吕凝慧（组长）  成琼  王梦真  徐俊美  赵家瑶</td>
       <td>https://github.com/lvninghui/big-data-software-engineering.git</td>
     </tr>
