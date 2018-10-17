@@ -1,6 +1,3 @@
-# WWW.MYZ
-软件过程是新的接触，新的开始
-
 ## 软件工程1班小队分配情况和列表
 
 <div>
@@ -60,6 +57,12 @@
       <td>刘金辀(队长) 杨子旭 李胜鹏 卓必诚 徐安 徐昌隆</td>
       <td>https://github.com/HBSDLJZ/SoftClass</td>
     </tr>
+    <tr>
+      <td>三寸日光</td>
+      <td>薛云晴(组长) 邬梓渌 王海峰</td>
+      <td>https://github.com/xueyunqing/Software</td>
+    </tr>
+
     <tr>
       <td></td>
       <td></td>
