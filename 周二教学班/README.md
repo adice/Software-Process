@@ -64,9 +64,44 @@
       <td>https://github.com/xueyunqing/Software</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Time</td>
+      <td>王昭(组长) 任家华 崔珊 刘晓倩</td>
+      <td>https://github.com/Wangzhaocici/software-process-operation</td>
+    </tr>
+     <tr>
+      <td>破风小组</td>
+      <td>苏家华(组长) 赵永权 韩泽豪 田实 </td>
+      <td>https://github.com/shanshanzha/To-The-Fore-Group</td>
+    </tr>
+    <tr>
+      <td>恒山论剑</td>
+      <td>李春良(组长)易剑权、徐润凯、李岱恒、闵俨</td>
+      <td>https://github.com/lichunliang1997/software_prj.git</td>
+    </tr>
+    <tr>
+      <td>写BUG辛苦了</td>
+      <td>唐溪（组长）王碧云 王云弟 闫正伟 孙正扬 孙程程</td>
+      <td>https://github.com/tangxi8823/softwareEngineering</td>
+    </tr>
+    <tr>
+      <td>aaaa</td>
+      <td>胡宇(组长) 张浩 董世轩 刘杼滨</td>
+      <td>https://github.com/moustacheyummy/SoftWareProject.git</td>
+    </tr>
+    <tr>
+      <td>杀死bug</td>
+      <td>张晨阳(组长) 李照钰 赵一贺 李萌</td>
+      <td>https://github.com/zhangchenyang6/software-process</td>
+    </tr>
+    <tr>
+      <td>栖曜</td>
+      <td>何慧霞（组长）任玉媛 张春辉 邓旸</td>
+      <td>https://github.com/hehuixia/BigData-Software-engineering.git</td>
+    </tr>
+     <tr>
+      <td>屋檐组</td>
+      <td>鲍张军(组长) 刘田会 段智兴 魏谦强 孙明伟 </td>
+      <td>https://github.com/bao9777/Software</td>
     </tr>
   </table>
 </div>
